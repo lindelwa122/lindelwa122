@@ -4,7 +4,7 @@
 
 ## Introduction
 
- I am a [WeThinkCode__](https://wethinkcode.co.za) student with over three years of coding experience. I build web apps and development tools, and I've been diving into neural networks. I'm currently in the top 4.021% of CodeWars warriors. I love solving problems, experimenting with ideas, and pushing my skills forward.
+ I am a [WeThinkCode__](https://wethinkcode.co.za) student with over three years of coding experience. I build web apps and development tools, and I've been diving into neural networks. I'm currently in the top 3.253% of CodeWars warriors. I love solving problems, experimenting with ideas, and pushing my skills forward.
 
 ## Values, Principles, and Beliefs
 

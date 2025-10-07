@@ -1,3 +1,5 @@
+[![An image of @lindelwa122's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lindelwa122)](https://holopin.io/@lindelwa122)
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 # About Nqabenhle Mlaba
